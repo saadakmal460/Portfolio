@@ -65,3 +65,87 @@ code {
   display: flex;
   justify-content: center;
 }
+
+.skill-div {
+  background-color: #122E43;
+  height: auto;
+}
+
+.first {
+  color: white;
+  font-weight: bold;
+}
+
+.second {
+  color: #01A7F3;
+  font-weight: bold;
+}
+
+.skills {
+  border: 1px solid #01A7F3;
+  border-radius: 5px;
+  height: auto;
+}
+
+
+
+.wrapper {
+  border: 2px solid #51A2CD;
+  border-radius: 2px;
+}
+
+.container2 {
+  background-color: #122E43;
+}
+
+.barCompleted2 {
+  background-color: #09ABF4;
+  width: 80%;
+
+}
+
+.barCompleted3 {
+  background-color: #09ABF4;
+  width: 70%;
+}
+
+.barCompleted4 {
+  background-color: #09ABF4;
+  width: 60%;
+}
+
+.label {
+  font-size: 16px;
+  color: white;
+}
+
+.skill-name {
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+
+.project-div {
+  background-color: #081B29;
+  height: auto;
+}
+
+.card {
+  background-color: #081B29;
+  border: 2px solid #51A2CD;
+  color: white;
+  text-align: justify;
+}
+
+
+
+.image-height {
+  height: 235px;
+}
+
+.card2 {
+  background-color: #122E43;
+  border: 2px solid #01A7F3;
+  border-radius: 3px;
+}
