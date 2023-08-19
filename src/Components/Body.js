@@ -6,10 +6,12 @@ export default function Body() {
       <div className="row info mx-auto">
         <div className="col-md-6">
           <div className="container">
-            <h1 className="main-name mx-auto">Hi,I'm Saad Akmal</h1>
+            <h1 id="home" className="main-name mx-auto">
+              Hi,I'm Saad Akmal
+            </h1>
             <h3 className="main-name2 mx-auto ">Front-End Developer</h3>
             <br />
-            <p className="animate__animated animate__fadeInLeft">
+            <p>
               I'm a passionate front-end web developer and a dedicated student
               at UET Lahore. I blend creativity with coding skills to craft
               visually pleasing and user-centric websites. Let's connect design
